@@ -83,16 +83,6 @@ The data sources for the project are:
 | country            | VARCHAR(50) | Country of the user           |
 | registration\_date | DATE        | Date user joined the platform |
 
-## Tasks Completed in this Phase
-
-| Step                         | Description                         | Status |
-| ---------------------------- | ----------------------------------- | ------ |
-| 1.6.1 Install Python         | Installed latest Python version     | ✅ Done |
-| 1.6.2 Install pgAdmin 4      | Installed pgAdmin for DB management | ✅ Done |
-| 1.6.3 Fork GitHub project    | Created project fork                | ✅ Done |
-| 1.6.4 Create local DW        | Set up PostgreSQL DB locally        | ✅ Done |
-| 1.6.5 Ingest from API        | Connected to OMDb API               | ✅ Done |
-| 1.6.6 Ingest from own source | Loaded local synthetic data         | ✅ Done |
 
 ## Resources
 
