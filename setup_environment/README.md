@@ -1,7 +1,8 @@
+# Movie Ratings Dashboard
 
 ## Scenario
 
-You are a Data Engineer intern developing a Data Warehouse system for a movie ratings dashboard platform. The platform collects user-generated reviews and rating scores for a variety of movies from different sources.
+I am a Data Engineer intern developing a Data Warehouse system for a movie ratings dashboard platform. The platform collects user-generated reviews and rating scores for a variety of movies from different sources.
 
 ## Business requirements
 
